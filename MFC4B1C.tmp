@@ -1,0 +1,50 @@
+
+<html >
+<head>
+ <link rel="shortcut icon" href="image/Company Logo.png" type="image/png">
+<title>homepage</title>
+</head>
+
+	<style>
+	
+
+	</style>
+
+
+
+<link rel="stylesheet" type="text/css" href="css/style.css"/>
+
+<body>
+	
+  <img src="image/header.png" width="800" height="120">
+<div>
+<ul>
+				
+                <li><a href="services.html"><i class="fa fa-plane" aria-hidden="true"></i> Our services</a></li>
+				<li><a href="contact.php"><i class="fa fa-phone" aria-hidden="true"></i> Our business solution</a></li>
+                 <li><a href="services.php"><i class="fa fa-phone" aria-hidden="true"></i> About Us</a></li>
+                 <li><a href="services.php"><i class="fa fa-phone" aria-hidden="true"></i> Our careers</a></li>
+                 <li><a href="services.php"><i class="fa fa-phone" aria-hidden="true"></i> Contact Us</a></li>
+               
+                
+                </div>
+                
+				                
+		  </ul>
+		</div> 
+        <center>
+				<img src="image/download (1).jpeg" width="1200" height="675">
+</center>
+                
+      
+       <br /><br />
+  
+  <center>
+  
+  		<label style="color:#039"> Copyright 2024 | viralsolitionsoftware | all rights reserved </label>
+  </center>
+  <br /> 
+       
+              
+</body>
+</html>
